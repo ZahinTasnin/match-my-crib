@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="flex items-center space-x-2">
           <Home className="h-6 w-6 text-match-primary" />
-          <span className="text-xl font-bold text-match-dark">MatchMyCrib</span>
+          <span className="text-xl font-bold text-match-dark">Housync</span>
         </Link>
 
         {/* Desktop Navigation */}
