@@ -64,11 +64,11 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				match: {
-					primary: '#38B2AC',
-					secondary: '#F56565',
-					neutral: '#F7FAFC',
-					dark: '#2D3748',
-					light: '#FFFFFF',
+					primary: '#B31B1B',    // Cornell Red (Carnelian)
+					secondary: '#222222',  // Cornell Black
+					neutral: '#F7F7F7',    // Light Gray/Off-White
+					dark: '#222222',       // Dark Gray/Black
+					light: '#FFFFFF',      // White
 				}
 			},
 			borderRadius: {
